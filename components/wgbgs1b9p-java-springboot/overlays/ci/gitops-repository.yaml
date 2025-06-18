@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wgbgs1b9p-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wgbgs1b9p-java-springboot-gitops
